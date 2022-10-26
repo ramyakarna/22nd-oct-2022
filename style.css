@@ -115,12 +115,182 @@
 	padding: 3% 15% 3% 15%;
 	font-size: 25px;
 	justify-content: space-between;
-    background-color: lightgrey;
+	background-color: rgba(239,239,239,0.6);
 }
 .pay{
 	margin-top: 3%;
 	margin-bottom: 4%;
 }
 .sec5 h1{
-	    font-family: 'Poppins', sans-serif;
+	 font-family: 'Poppins', sans-serif;
+	   
+}
+.sec6{
+	padding: 5% 0.3% 5% 0.3%;
+	font-size: 25px;
+	justify-content: space-between;
+	background-color: rgba(239,239,239,0.6);
+}
+.parent{
+	display: flex;
+	justify-content: space-between;
+	padding: 10% 6% 10% 6%;
+	background-color: white;
+	
+}
+.app{
+	margin-left: 6%;
+	font-size: 20px;
+}
+.upi{
+	display: flex;
+	margin-left: 4%;
+	margin-bottom: 8%;
+}
+.make{
+	margin-top: 3%;
+	margin-bottom: 4%;
+}
+.sec7{
+	padding: 3% 0.3% 3% 0.3%;
+	font-size: 25px;
+	justify-content: space-between;
+	background-color: rgba(239,239,239,0.6);
+}
+.learnmore{
+	background-color: navy;
+	color: white;
+	width: 20%;
+	padding: 2% 4% 2% 4%;
+	border-radius: 25px;
+	margin-right: 5%;
+	margin-top: 4%;
+}
+.learnmore:hover{
+	background-color: deepskyblue;
+}
+.hdfc{
+	padding: 5% 3% 5% 8%;
+	background-color: white;
+}
+.seca{
+	padding: 0.2%;
+	
+}
+.secb{
+	padding: 0.2% 0.2% 1% 2%;
+}
+.sec8{
+	display: flex;
+	padding: 0.2%;
+}
+.sec8 h1{
+	font-size: 35px;
+	margin-top: 4%;
+	font-family: 'Poppins', sans-serif;
+}
+.bank{
+	font-size: 20px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-weight: bold;
+}
+.sbi{
+	padding: 5% 3% 5% 8%;
+	background-color: white;
+}
+.image25{
+	margin-top: 14%;
+}
+.great{
+	margin-bottom: 3%;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 5%;
+}
+.sec9{
+	display: flex;
+	padding: 6% 0% 3% 6%;
+	justify-content: space-around;
+}
+
+.finance h1{
+	font-size: 45px;
+	margin-bottom: 10%;
+}
+.zero{
+	font-size: 40px;
+	font-weight: bolds;
+	margin-top: 6%;
+	margin-bottom: 6%;
+}
+.finger{
+	font-size: 20px;
+}
+.sec10{
+	display: flex;
+	background-image: url("images/image29.png");
+	justify-content: space-between;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 4% 8% 6% 10%;
+}
+.achieve{
+	font-size: 23px;
+}
+.achieve h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+}
+.sec11{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+}
+.easy{
+	font-size: 25px;
+}
+.easy h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.sec12{
+	display: flex;
+	padding: 8% 10% 8% 12%;
+	justify-content: space-between;
+	background-color: rgba(239,239,239,0.6);
+}
+.loan{
+	font-size: 23px;
+}
+.loan h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.sec13{
+	padding: 5% 14% 5% 14%;
+	font-size: 30px;
+}
+.online{
+	display: flex;
+	justify-content: space-between;
+	background-color: rgba(239, 239, 239, 0.6);
+	padding: 8% 0% 8% 6% ;
+	margin-top: 4%;
+}
+.accept{
+	font-size: 15px;
+	margin-top: 10%;
+	margin-left: 4%;
+}
+.accept h1{
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 4%;
+	font-size: 35px;
+}
+.accept p{
+	margin-bottom: 8%;
+	font-size: 22px;
 }
