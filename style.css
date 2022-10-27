@@ -234,6 +234,7 @@
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding: 4% 8% 6% 10%;
+	background-color: rgba(239,239,239,1);
 }
 .achieve{
 	font-size: 23px;
@@ -260,6 +261,18 @@
 	padding: 8% 10% 8% 12%;
 	justify-content: space-between;
 	background-color: rgba(239,239,239,0.6);
+}
+.more{
+	padding: 2% 1% 2% 6%;
+	background-color: navy;
+	color: white;
+	width: 28%;
+	margin-top: 3%;
+	border-radius: 25px;
+}
+.more:hover{
+	background-color: deepskyblue;
+	color: white;
 }
 .loan{
 	font-size: 23px;
@@ -293,4 +306,26 @@
 .accept p{
 	margin-bottom: 8%;
 	font-size: 22px;
+}
+.business{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 3% 2% 2% 12%;
+}
+.grow{
+	font-size: 40px;
+	margin: 5% 0% 3% 13%;
+	font-family: 'Poppins', sans-serif ;
+}
+.business h1{
+	margin: 10% 0% 5% 0%;
+	font-family: 'Poppins', sans-serif ;
+}
+.business p{
+	font-size: 18px;
+	margin-bottom: 4%;
+}
+.learn{
+	margin-bottom: 10%;
+	font-family: 'Poppins', sans-serif ;
 }
