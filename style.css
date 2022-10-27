@@ -1,5 +1,6 @@
 *{
 	margin: 0%;
+	/*border: 1px solid red;*/
 }
 .navbar{
 	padding: 0.8%;
@@ -328,4 +329,32 @@
 .learn{
 	margin-bottom: 10%;
 	font-family: 'Poppins', sans-serif ;
+}
+.sec15{
+	display: flex;
+	padding: 5%;
+}
+.invest{
+	margin-top: 5%;
+}
+.invest p{
+	margin-top: 2%;
+}
+.img{
+	padding-left: 3%;
+	display: flex;
+}
+@media(max-width: 1366px){
+	.navbar a{
+		font-size: 15px;
+	}
+	.India{
+		font-size: 35px ;
+    }
+    .sec8 h1{
+    	font-size: 30px;
+    }
+    .grow{
+    	font-size: 35px;
+    }
 }
